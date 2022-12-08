@@ -4,6 +4,9 @@ Projekt Schneemann.
 
 ## Worum geht's
 
+![](smann1.jpg)
+
+![](smann2.jpg)
 
 Dieser Schneemann (Nichträuchermännchen) ist ein Luftqualitätsindikator.
 
