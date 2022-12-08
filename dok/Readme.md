@@ -13,7 +13,7 @@ die LEDs auf dem WS2812b-LED-Streifen abhängig von den Sensordaten.
 
 ## Schaltplan
 
-![](Schaltplan.png
+![](Schaltplan.png)
 
 Den Plan gibt es auch als ![PDF](Schaltplan.pdf) und als ![Fitzing](Schaltplan.fzz).
 
